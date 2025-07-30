@@ -39,9 +39,8 @@
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](#) *(add your link)*  
-- [Portfolio](#) *(coming soon?)*  
-- [Instagram](#) *(if relevant)*
+- [LinkedIn](#https://www.linkedin.com/in/wesley-methorst-6b93651b9/)  
+- [Portfolio](#https://wesleymethorst.nl/)
 
 ---
 

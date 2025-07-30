@@ -15,7 +15,6 @@
 
 
 - **Tools & Libraries:**  
-  `Vite` • `SQL` • `Git` • `VS Code`
   [![My Skills](https://skillicons.dev/icons?i=vite,mysql,git,vscode)](https://skillicons.dev)
 
 ---

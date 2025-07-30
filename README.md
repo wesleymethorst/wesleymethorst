@@ -12,6 +12,8 @@
 
 - **Languages & Frameworks:**  
   `HTML5` • `CSS3` • `JavaScript` • `Vue` • `Lua`
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,lua)](https://skillicons.dev)
+
 
 - **Tools & Libraries:**  
   `Vite` • `SQL` • `Git` • `VS Code`

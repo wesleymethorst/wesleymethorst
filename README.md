@@ -2,9 +2,9 @@
 
 🎓 I'm currently studying **ICT at Fontys University of Applied Sciences**, following the **Open Learning track**. This flexible path allows me to shape my own learning outcomes and build a personalized route that aligns with my goals.
 
-🚀 My ambition is to create my **own tech business**, combining creativity, development, and entrepreneurship. Right now, I'm sharpening my expertise in **JavaScript** and modern front-end frameworks as I grow into a professional developer.
+🚀 My ambition is to create my **own tech business**, combining creativity, development, and entrepreneurship. I'm currently developing my skills across both **front-end and back-end** technologies, with a strong focus on JavaScript and modern web development.
 
-💻 I primarily work as a **Front-End Developer** with a strong focus on **Vue** and **Nuxt.js**. In the future, I aim to expand further into backend development to eventually become a **Full-Stack Developer**.
+💻 I work as a **Full-Stack Developer in progress**, building experience in both client-side and server-side development. I enjoy working with **Vue, Nuxt.js, TailwindCSS**, and expanding my backend skills using **databases and APIs**.
 
 ---
 
@@ -17,8 +17,8 @@
 ## 🧠 What I'm Currently Learning
 
 - Advanced JavaScript concepts (async programming, performance, design patterns)  
-- Front-end architecture using Vue & Nuxt  
-- Backend fundamentals (REST APIs, databases)  
+- Building full-stack applications using Vue & Nuxt  
+- Backend fundamentals (REST APIs, databases, server logic)  
 - How to turn technical skills into scalable digital products  
 
 ---

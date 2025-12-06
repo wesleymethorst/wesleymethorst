@@ -17,7 +17,7 @@
 ## 🧠 What I'm Currently Learning
 
 - Advanced JavaScript concepts (async programming, performance, design patterns)  
-- Building full-stack applications using Vue & Nuxt  
+- Building full-stack applications using Vue & Nuxt / React & Next  
 - Backend fundamentals (REST APIs, databases, server logic)  
 - How to turn technical skills into scalable digital products  
 

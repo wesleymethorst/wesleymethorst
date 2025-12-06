@@ -35,7 +35,7 @@
 ## 🌐 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/wesley-methorst-6b93651b9/  
-- **Portfolio:** https://wesleymethorst.nl/
+- **Portfolio:** https://wesleymethorst.dev/
 
 ---
 

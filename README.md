@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,tailwind,vite,mysql,mongodb,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,vite,mysql,mongodb,lua)](https://skillicons.dev)
 
 ---
 
